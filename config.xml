@@ -1,0 +1,6 @@
+<config>
+  <ftp_root_path>ftp://127.0.0.1/</ftp_root_path>
+  <local_root_path>d:\\ftpclient\</local_root_path>
+  <user>tester</user>
+  <password>test</password>
+</config>
